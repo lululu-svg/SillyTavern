@@ -13,4 +13,4 @@ api:
 server:
   trust_proxy: true
   allowed_hosts: ["*"]
-  port: 3000
+  port: 8000
